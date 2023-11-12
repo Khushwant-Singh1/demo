@@ -1,4 +1,4 @@
 # demo
 This is my first repository
 <br>
-Author -- Khushwant Singh
+Author -- Khushwant Singh (student)
